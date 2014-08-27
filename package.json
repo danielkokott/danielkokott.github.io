@@ -1,0 +1,23 @@
+{
+  "name": "danielkokott.github.io",
+  "version": "0.0.0",
+  "description": "daniel.kokott.dk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielkokott/danielkokott.github.io.git"
+  },
+  "author": "Daniel Kokott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkokott/danielkokott.github.io/issues"
+  },
+  "homepage": "https://github.com/danielkokott/danielkokott.github.io",
+  "devDependencies": {
+    "browser-sync": "^1.3.3",
+    "gulp": "^3.8.7"
+  }
+}
