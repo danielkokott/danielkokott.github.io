@@ -6,43 +6,82 @@
   
 }
 
-h1
+
+.row
 {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: bold;
+  margin-bottom: 15px;
 }
+
+h1, h2, p
+{
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: 'Play', sans-serif;
+}
+
+a
+{
+  text-decoration: underline;
+}
+/*h1
+{
+  font-weight: bold;
+}*/
 
 #flickr-favorites
 {
   text-align: center;
 }
 
+.label
+{
+  background-color: #AAA;
+}
 
+.label:hover
+{
+  background-color: #666;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
 /* Sticky footer styles
 -------------------------------------------------- */
-html {
+/*html {
   position: relative;
   min-height: 100%;
-}
-body {
+}*/
   /* Margin bottom by footer height */
+/*body {
   margin-bottom: 60px;
-}
-.footer {
+}*/
+  /* Set the fixed height of the footer here */
+/*.footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #f5f5f5;
-}
+}*/
 
 
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
-.container {
+/*.container {
   width: auto;
   max-width: 680px;
   padding: 0 15px;
@@ -50,3 +89,4 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+*/
