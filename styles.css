@@ -1,6 +1,6 @@
 .row
 {
-  margin-bottom: 15px;
+  margin-bottom: 40px;
 }
 
 h1, h2, p, a
@@ -9,26 +9,26 @@ h1, h2, p, a
   font-family: 'Play', sans-serif;
 }
 
-a
+.social-links a
 {
   -webkit-box-shadow: 0 2px 2px -1px grey;
      -moz-box-shadow: 0 2px 2px -1px grey;
           box-shadow: 0 2px 2px -1px grey;
 }
 
-a:link {
+.social-links a:link {
     text-decoration: none;
 }
 
-a:visited {
+.social-links a:visited {
     text-decoration: none;
 }
 
-a:hover {
+.social-links a:hover {
     text-decoration: none;
 }
 
-a:active {
+.social-links a:active {
     text-decoration: none;
 }
 
