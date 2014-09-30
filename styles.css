@@ -35,20 +35,23 @@ h1, h2, p, a
 .flickr-images img
 {
   margin-bottom: 25px;
-  -webkit-box-shadow: 0 8px 6px -6px black;
+  max-width: 100% !important;
+  max-width: auto !important;
+  height: auto !important;
+/*  -webkit-box-shadow: 0 8px 6px -6px black;
      -moz-box-shadow: 0 8px 6px -6px black;
       -ms-box-shadow: 0 8px 6px -6px black;
        -o-box-shadow: 0 8px 6px -6px black;
-          box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 8px 6px -6px black;*/
 }
 
 .flickr-images img:hover
 {
-  -webkit-box-shadow: 0px 8px 20px -5px black;
+/*  -webkit-box-shadow: 0px 8px 20px -5px black;
      -moz-box-shadow: 0px 8px 20px -5px black;
       -ms-box-shadow: 0px 8px 20px -5px black;
        -o-box-shadow: 0px 8px 20px -5px black;
-          box-shadow: 0px 8px 20px -5px black;
+          box-shadow: 0px 8px 20px -5px black;*/
   -webkit-transform:scale(1.04);
      -moz-transform:scale(1.04);
       -ms-transform:scale(1.04);
