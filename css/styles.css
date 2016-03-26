@@ -1,21 +1,17 @@
-body
-{
+body {
   background-color: white;
 }
 
-.container
-{
+.container {
   margin-top: 10rem;
 }
 
-h1, h2, h3, p, a
-{
+h1, h2, h3, p, a {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
 }
 
-a
-{
+a {
   color: black;
 }
 
@@ -33,4 +29,8 @@ a:hover {
 
 a:active {
   text-decoration: none;
+}
+
+.row {
+  margin-bottom: 2.5em;
 }
