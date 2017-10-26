@@ -1,0 +1,24 @@
+{
+  "name": "danielkokott.github.io",
+  "version": "1.0.0",
+  "description": "daniel.kokott.dk",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nano-static-server": "^1.0.0"
+  },
+  "scripts": {
+    "start": "./node_modules/nano-static-server/bin/server --cfg=./nano-static-server-config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkokott/danielkokott.github.io.git"
+  },
+  "author": "Daniel Kokott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkokott/danielkokott.github.io/issues"
+  },
+  "homepage": "https://github.com/danielkokott/danielkokott.github.io#readme"
+}
