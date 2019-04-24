@@ -5,10 +5,11 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "nano-static-server": "^1.0.0"
+    "static-server": "^2.2.1"
   },
   "scripts": {
-    "start": "./node_modules/nano-static-server/bin/server --cfg=./nano-static-server-config.json",
+    "start": "node static-server.js",
+    "dev": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
