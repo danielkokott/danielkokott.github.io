@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "daniel.kokott.dk",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
-    "static-server": "^2.2.1"
+    "serve": "^14.0.1"
   },
   "scripts": {
     "start": "node static-server.js",
