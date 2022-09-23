@@ -7,8 +7,7 @@
     "serve": "^14.0.1"
   },
   "scripts": {
-    "start": "node static-server.js",
-    "dev": "npm start",
+    "start": "npx serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
