@@ -4,7 +4,7 @@
   "description": "daniel.kokott.dk",
   "main": "index.js",
   "devDependencies": {
-    "serve": "^14.0.1"
+    "serve": "^14.1.1"
   },
   "scripts": {
     "start": "npx serve",
