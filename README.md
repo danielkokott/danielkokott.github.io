@@ -1,7 +1,8 @@
 danielkokott.github.io
 ======================
 
-```
-npm install
-npx serve
-```
+CSS Skeleton:
+[http://getskeleton.com/](http://getskeleton.com/)
+
+CSS Spectre:
+[https://picturepan2.github.io/spectre/index.html](https://picturepan2.github.io/spectre/index.html)
