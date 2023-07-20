@@ -1,6 +1,6 @@
 danielkokott.github.io
 ======================
- 
+
 CSS Skeleton:
 [http://getskeleton.com/](http://getskeleton.com/)
 
