@@ -1,0 +1,69 @@
+-- Intro
+ I'm a developer, application architect, chapter lead for web development at Maersk Tankers, dad and music enthusiast.
+
+I still love to purchase music to A) support the artists, and B) be able to mix the music on my home setup.
+
+Bandcamp is my preferred online music store. //bandcamp.com/danielkokott/
+
+Connect with me. //dk.linkedin.com/in/danielkokott/
+
+-- Om
+Jeg er en softwareingeniør der altid har trives ved at engagere mig komplekse problemstillinger og i at designe og udvikle intuitive løsninger.
+Min interesse er at finde den mest optimale løsning og samtidig være bevidst om hvilken værdi den skal kunne skabe.
+
+Jeg har primært udviklet webbaserede applikationer og service-orienterede integrationer, men også en del rutiner til datamanipulation og lignende løsningsorienterede klientapplikationer.
+
+Jeg startede sin karriere som konsulent med fokus på open source software. Et efterfølgende årti som systemkonsulent gav mig stor erfaring i at bygge forretningskritiske enterprise applikationer og services på Microsoft’s middleware og .NET-Framework i agile projekter.
+
+Jeg har de sidste fem år beskæftiget mig som applikationsarkitekt og full-stack udvikler med teknologier som Amazon AWS, GitHub, Redis, MongoDB, Docker, Node.js, JavaScript, React, Angular, Bootstrap og en masse andre lækre Open Source værktøjer.
+Som full-stack udvikler har jeg haft forståelse for alle dele i applikationen og samtidig haft det overordnede billede.
+
+Jeg har typisk fungeret som Lead Developer i projektgrupper på fire til fem konsulenter og som løsningsdesigner ift. kunden. En gennemgående professionel adfærd og ansvarsbevidsthed har været et krav for at kunne udfylde disse roller. Jeg har også erfaring med bl.a. at facilitere workshops, afholde tekniker- og brugerundervisning, foretage demovisninger og holde oplæg.
+
+-- Erfaring
+Maersk Tankers
+Senior Software Architect, Maj 2020 -> nu
+Chapter Lead, Web Development, August 2022 -> Februar 2024
+
+Frode
+Far, November 2012 -> nu
+Som far til Frode er mine evner til at jonglere flere opgaver samtidig blevet forfinet, jeg har fundet ud af hvor hurtigt 3 et halvt år kan gå, jeg har lært hvor utrolig mange komprisser jeg kan indgå og jeg har nu endegyldigt mistet egenskaben til at komme rettidig ud af døren.
+
+Vilhelm
+Far, Maj 2009 -> nu
+Jeg er far til den dejlige dreng Vilhelm og denne "stilling" har åbnet en hel ny verden for mig. Mine værdier er blevet blødere, min tålmodighed er blevet uendelig gange større, mine kommunikative egenskaber er blevet skarpere og min fritid er blevet berøvet :)
+
+
+Berlingske Media
+Applikationsarkitekt, Jan 2014 -> April 2020
+Hos Berlingske Media har jeg arbejdet som applikationsarkitekt og udviklet webbaserede integrationer og backoffice løsninger.
+Jeg har det tekniske ansvar for vores email marketing infrastruktur, vores SSO og en masse sjove projekter som f.eks. Podcast24Syv, dækning af Folketingsvalg og GDPR.
+Hos Berlingske Media har jeg beskæftiget mig udelukkende med Amazon AWS, GitHub, Redis, MongoDB, Docker, Node.js, JavaScript, React, Angular, Bootstrap og en masse andre lækre Open Source værktøjer.
+
+
+Cyber Com Consulting
+IT Specialist, Februar 2011 -> December 2013
+Jeg arbejder som IT specialist og systemkonsulent for Cybercom Group. Stillingen hos Cybercom har givet mig en lang række nye erfaringer og spændende udfordringer. F.eks.:
+Jeg arbejder sammen med YouSee på deres kundevendte yousee.dk og løsninger til elektronisk kommunikation. YouSee's opstartskultur og fremadtænkende IT-afdeling har gjort denne opgave til utrolig spændende. Jeg har f.eks. fået lov til at udvikle i Clojure og opleve hvordan man hurtigt kan skifte perspektiv på en masse ting. Se mere under i afsnittet under projekter.
+Jeg har fungeret som systemkonsulent og reviewer af et IT-projekt hos Københavns Lufthavne (CPH). Arbejdet bestod i at bistå Københavns Lufthavne i implementeringsfasen, lave kvalitetssikring samt review dokumentation og kildekode.
+Jeg har arbejdet som udvikler for Steria Danmark på et elektronisk Sags- og Dokumenthåndteringsløsning til Arbejdsskadestyrelsen. Løsningens formål er at forbedre den elektroniske sagsbehandling af skadessager, øge kvaliteten af afgørelserne, mindske sagsbehandlingstiden samt at skabe en platform for nye forretningsområder.
+Jeg har gennem mit arbejde hos Cyber Combeskæftiget mig med følgende teknologier og discipliner: C#, ASP.NET, SiteCore, JavaScript, jQuery, Backbone.js, Clojure, REST, CSS, HTML5, MVC, Twitter Bootstrap, Umbraco, SQL, NoSQL, Git, GitHub, Amazon AWS (DynamoDB, S3, SWF), Linux, Google Maps, Google Charts, Google Fusion Tables Scrum, Kanban, Continuous Integration samt integrationer til diverse sociale medier og cloud tjenester.
+
+
+Software Innovation A/S
+Senior developer, Juni 2005 -> Januar 2011
+Arbejdet hos Software Innovation bestod i udarbejdelse af design og specifikation af løsninger, kunderådgivning, software udvikling, salg, support og forretningsudvikling.
+Hos Software Innovation leverede Enterprise Content Management og sagsbehandlings-løsninger til større organisationer, primært inden for det statslige segment, baseret på Software Innovations "360 grader" platform.
+Har haft rollen som Lead Developer på en række ESDH-implementeringsprojekter, bla. hos Integrationsministeriet, Erhvervs- og Byggestyrelsen, Danmarks Radio, Danmarks Tekniske Universitet, Danmarks Statistik, Bornholms Regionskommune og Told og Skat Færøerne, samt stået for design, specifikation og/eller udvikling af forretningsorienterede produkter til en lang række kunder.
+Jeg var med til at udarbejde dele af Software Innovations projektmodel, som er baseret på Microsoft Solution Framework og CMMI, og samtidig implementeret Team Foundation Server i hele organisationen.
+Jeg har gennem mit arbejde hos Software Innovation beskæftiget mig bla. følgende teknologier og discipliner:
+UML, Scrum, Microsoft .NET Framework, Visual Studio Team System, C#, Webservices (WCF), SharePoint Services, Internet Information Server, Team Foundation Server, XML, XSLT, SQL, Kofax Capture.
+
+Casalogic
+Open Source consultant
+September 2003 -> December 2004
+
+-- Uddannelse
+Danmark Tekniske Universitet
+Diplom, IT Ingeniør 2001 - 2005
+Speciale i software arkitektur.
